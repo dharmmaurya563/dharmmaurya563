@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dharmmaurya563
 - 👀 I’m interested in ... programming
-- 🌱 I’m currently learning ...DSA
+- 🌱 I’m currently learning ...DSA, React Js
 - 💞️ I’m looking to collaborate on ...Developers
 - 📫 How to reach me ...
 
